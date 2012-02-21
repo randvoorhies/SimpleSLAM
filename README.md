@@ -15,3 +15,5 @@ resampled such that particles with high scores are likely to be replicated, and
 those with low scores are likely to be deleted.
 
 To run this demo, just checkout this project, and run slam.m 
+
+![](https://github.com/randvoorhies/SimpleSLAM/raw/master/screenshot.png)
