@@ -1,3 +1,5 @@
+SimpleSLAM
+==========
 The following is a simple reference implementation of Simultaneous Localization
 And Mapping written in MATLAB. The code simulates a robot cruising around in
 a 2D world which contains 5 uniquely identifiable landmarks at unknown
@@ -17,3 +19,8 @@ those with low scores are likely to be deleted.
 To run this demo, just checkout this project, and run slam.m 
 
 ![](https://github.com/randvoorhies/SimpleSLAM/raw/master/screenshot.png)
+
+Learn More!
+==================
+*  [My introductory lecture on Particle Filters](http://ilab.usc.edu/~rand/LectureSlides/445Lectures/ParticleFiltering/index.html)
+*  [My SimpleKalman project](https://github.com/randvoorhies/SimpleKalman)
